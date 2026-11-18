@@ -104,6 +104,7 @@ const LEAD_ENDPOINT = 'https://lead-relay.leestygpt.workers.dev/lead/V6RJAQJBTL'
       const r = await fetch(LEAD_ENDPOINT, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
       if (!r.ok) throw new Error('HTTP ' + r.status);
       label.textContent = 'Заявка отправлена';
+      if (window.ym) ym(214763, 'reachGoal', 'lead');
       form.reset();
     } catch (err) {
       console.error(err);
