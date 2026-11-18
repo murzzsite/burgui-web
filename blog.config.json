@@ -1,0 +1,40 @@
+{
+  "siteName": "Буржуй",
+  "siteUrl": "https://promo.prburgui.ru",
+  "lang": "ru",
+  "repo": "murzzsite/burgui-web",
+  "ref": "V6RJAQJBTL",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи от Буржуй",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Буржуй",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте адрес сайта в форме, и мы пришлём результат бесплатного аудита.",
+  "ctaButton": "Получить аудит",
+  "ctaUrl": "/#contact",
+  "disclaimer": "",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/",
+    "/privacy.html"
+  ],
+  "indexNowKey": "af117f9c98950cf3aa140fd0bdcbdadc",
+  "previewSecret": "8ff669680c27c747",
+  "theme": {
+    "accent": "var(--red)",
+    "accent-soft": "color-mix(in srgb, var(--red) 8%, #ffffff)",
+    "bg": "var(--paper)",
+    "surface": "var(--white)",
+    "ink": "var(--ink)",
+    "text": "var(--ink)",
+    "soft": "color-mix(in srgb, var(--ink) 70%, #ffffff)",
+    "line": "var(--steel)"
+  }
+}
