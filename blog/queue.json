@@ -1,12 +1,12 @@
 {
   "site": "https://promo.prburgui.ru",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "awaiting": [
     {
       "slug": "audit-sajta-dlya-biznesa",
       "path": "articles/audit-sajta-dlya-biznesa.md",
       "title": "Аудит сайта для бизнеса: что проверять и как читать результат",
-      "description": "Что входит в аудит корпоративного сайта: безопасность, персональные данные, SEO и удобство. Чек-лист для владельца и план действий по итогам проверки.",
+      "description": "Что входит в аудит корпоративного сайта: безопасность, SEO и ранжирование, удобство, персональные данные. Чек-лист для владельца и план действий по итогам проверки.",
       "reading_time": "11 мин чтения",
       "preview_url": "https://promo.prburgui.ru/blog/preview/b4c260261b72/audit-sajta-dlya-biznesa/"
     },
