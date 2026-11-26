@@ -1,7 +1,24 @@
 {
   "site": "https://promo.prburgui.ru",
   "updated": "2026-11-26",
-  "awaiting": [],
+  "awaiting": [
+    {
+      "slug": "podderzhka-korporativnogo-sajta",
+      "path": "articles/podderzhka-korporativnogo-sajta.md",
+      "title": "Поддержка и обслуживание корпоративного сайта: что входит и сколько это стоит",
+      "description": "Что входит в поддержку и обслуживание корпоративного сайта, сколько это стоит в месяц и в год, как выбрать подрядчика и что прописать в договоре.",
+      "reading_time": "11 мин чтения",
+      "preview_url": "https://promo.prburgui.ru/blog/preview/d73950eed5dd/podderzhka-korporativnogo-sajta/"
+    },
+    {
+      "slug": "sajt-ne-privodit-zayavki",
+      "path": "articles/sajt-ne-privodit-zayavki.md",
+      "title": "Сайт не приводит заявки: семь мест, где посетитель уходит",
+      "description": "Почему сайт не приносит заявок: семь мест, где посетитель уходит, как их найти самостоятельно и что делать дальше. Чек-лист и бесплатная экспресс-проверка.",
+      "reading_time": "9 мин чтения",
+      "preview_url": "https://promo.prburgui.ru/blog/preview/00a0928e96c1/sajt-ne-privodit-zayavki/"
+    }
+  ],
   "scheduled": [
     {
       "slug": "skolko-stoit-sajt-dlya-kompanii",
