@@ -1,24 +1,20 @@
 {
   "site": "https://promo.prburgui.ru",
-  "updated": "2026-11-25",
-  "awaiting": [
-    {
-      "slug": "audit-sajta-dlya-biznesa",
-      "path": "articles/audit-sajta-dlya-biznesa.md",
-      "title": "Аудит сайта для бизнеса: что проверять и как читать результат",
-      "description": "Что входит в аудит корпоративного сайта: безопасность, SEO и ранжирование, удобство, персональные данные. Чек-лист для владельца и план действий по итогам проверки.",
-      "reading_time": "11 мин чтения",
-      "preview_url": "https://promo.prburgui.ru/blog/preview/b4c260261b72/audit-sajta-dlya-biznesa/"
-    },
+  "updated": "2026-11-26",
+  "awaiting": [],
+  "scheduled": [
     {
       "slug": "skolko-stoit-sajt-dlya-kompanii",
-      "path": "articles/skolko-stoit-sajt-dlya-kompanii.md",
       "title": "Сколько стоит сайт для компании: от визитки до CRM-системы",
-      "description": "Сколько стоит сайт-визитка, корпоративный сайт, интернет-магазин и CRM-система. Из чего складывается цена и как не переплатить при заказе разработки.",
-      "reading_time": "10 мин чтения",
-      "preview_url": "https://promo.prburgui.ru/blog/preview/b1706e000387/skolko-stoit-sajt-dlya-kompanii/"
+      "date": "2026-12-03"
     }
   ],
-  "scheduled": [],
-  "published": []
+  "published": [
+    {
+      "slug": "audit-sajta-dlya-biznesa",
+      "title": "Аудит сайта для бизнеса: что проверять и как читать результат",
+      "url": "https://promo.prburgui.ru/blog/audit-sajta-dlya-biznesa/",
+      "date": "2026-11-26"
+    }
+  ]
 }
